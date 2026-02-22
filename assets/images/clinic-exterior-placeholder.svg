@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">病院外観写真 仮画像</title>
+  <desc id="desc">病院外観写真の差し替え用プレースホルダー画像</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f4efe4"/>
+      <stop offset="100%" stop-color="#e5dccd"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <rect x="120" y="90" width="400" height="210" rx="8" fill="#fffdf8" stroke="#bda98a" stroke-width="3"/>
+  <rect x="170" y="120" width="300" height="44" rx="6" fill="#0f7b6c"/>
+  <text x="320" y="149" text-anchor="middle" font-size="20" font-family="sans-serif" fill="#ffffff">Aoki Beauty Clinic</text>
+  <rect x="200" y="185" width="72" height="54" fill="#d5e5ea" stroke="#93a7ad"/>
+  <rect x="284" y="185" width="72" height="54" fill="#d5e5ea" stroke="#93a7ad"/>
+  <rect x="368" y="185" width="72" height="54" fill="#d5e5ea" stroke="#93a7ad"/>
+  <rect x="286" y="245" width="68" height="55" fill="#d9d0be" stroke="#99866a"/>
+  <text x="320" y="332" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#5a4c3b">外観写真（仮画像 / 差し替え予定）</text>
+</svg>
