@@ -1,1 +1,0 @@
-window.lpTrackingConfig = window.lpTrackingConfig || {};
